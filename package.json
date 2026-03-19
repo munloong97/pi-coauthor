@@ -1,0 +1,12 @@
+{
+  "name": "pi-coauthor-ext",
+  "version": "1.0.0",
+  "description": "Adds Co-authored-by trailer to git commits with AI model info",
+  "main": "coauthor.ts",
+  "keywords": ["pi", "extension", "git", "commit", "coauthor"],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
+  }
+}
