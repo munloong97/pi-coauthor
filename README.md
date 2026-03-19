@@ -1,4 +1,4 @@
-# pi-coauthor-ext
+# pi-coauthor
 
 A Pi extension that automatically adds a `Co-authored-by` trailer to git commits, attributing the AI model used.
 
